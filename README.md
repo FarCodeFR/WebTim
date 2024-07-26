@@ -1,2 +1,2 @@
 # WebTim
-Library TIm
+Library Tim
